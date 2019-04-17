@@ -3,29 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://sv1612677.github.io/</loc>
     <lastmod>2019-04-11T15:13:19+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>https://sv1612677.github.io/posts/</loc>
     <lastmod>2019-04-11T15:13:19+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/lectureofbook/</loc>
+    <loc>https://sv1612677.github.io/posts/lectureofbook/</loc>
     <lastmod>2019-04-11T15:13:19+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://sv1612677.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://sv1612677.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   

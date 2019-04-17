@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on </description>
+    <title>Posts on Chi Thuc Blog</title>
+    <link>https://sv1612677.github.io/posts/</link>
+    <description>Recent content in Posts on Chi Thuc Blog</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Thu, 11 Apr 2019 15:13:19 +0700</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sv1612677.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Fine Art of SMALL TALK</title>
-      <link>/posts/lectureofbook/</link>
+      <link>https://sv1612677.github.io/posts/lectureofbook/</link>
       <pubDate>Thu, 11 Apr 2019 15:13:19 +0700</pubDate>
       
-      <guid>/posts/lectureofbook/</guid>
+      <guid>https://sv1612677.github.io/posts/lectureofbook/</guid>
       <description>Giới thiệu
  Lợi ích của việc giao tiếp Hành động: dấn thân vào và kết bạn
  Chuẩn bị cho cuộc trò chuyện
