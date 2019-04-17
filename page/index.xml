@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Chi Thuc Blog</title>
+    <link>https://sv1612677.github.io/page/</link>
+    <description>Recent content in Pages on Chi Thuc Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://sv1612677.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://sv1612677.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sv1612677.github.io/page/about/</guid>
+      <description>Mình tên là Chí Thức, năm nay cũng khá già, 21 tuổi rồi, nhưng vẫn còn Fa, không phải vì ế, đơn giản là do mình thích thôi =)).
+nếu bạn có góp ý về blog hay kết bạn thì liên hệ qua facebook của mình nhé.</description>
+    </item>
+    
+  </channel>
+</rss>
