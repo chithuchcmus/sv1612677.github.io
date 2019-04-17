@@ -5,7 +5,8 @@
   <url>
     <loc>https://sv1612677.github.io/</loc>
     <lastmod>2019-04-11T15:13:19+07:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -24,6 +25,12 @@
   <url>
     <loc>https://sv1612677.github.io/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sv1612677.github.io/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
